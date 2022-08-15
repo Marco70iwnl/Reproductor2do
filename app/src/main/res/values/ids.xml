@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edad" type="id">edad</item>
+    <item name="vernotifi" type="id">vernotifi</item>
+    <item name="rep_audio" type="id">rep_audio</item>
+    <item name="rep_video" type="id">rep_video</item>
+</resources>

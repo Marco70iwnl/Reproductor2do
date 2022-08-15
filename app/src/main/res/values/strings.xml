@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Reproductor</string>
+    <string name="teclea_el_nombre">Nombre</string>
+    <string name="teclea_la_materia">Edad</string>
+    <string name="edad">edad</string>
+    <string name="guardar_registro">REGISTRAR</string>
+    <string name="REGISTRAR">REGISTRAR</string>
+    <string name="eliminar">Borrar registro</string>
+    <string name="nombre">nombre</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="eliminar_registro">eliminar registro</string>
+    <string name="actualziar_registro">actualizacion</string>
+    <string name="actualizacion">actualizacion</string>
+    <string name="leer_registros">leer registro</string>
+    <string name="aqui_se_despliegan_los_registros">Contenido</string>
+    <string name="Contenido">Contenido</string>
+    <string name="reproducir_video">Reproducir video</string>
+    <string name="pause_video">pause video</string>
+</resources>
